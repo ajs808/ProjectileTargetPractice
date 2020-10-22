@@ -1,0 +1,109 @@
+1
+The acceleration of gravity in m/s^2 to the tenths place is:
+
+9.8
+
+9.8: The acceleration of gravity is 9.8m/s^2.
+
+2
+In projectile motion, what is the horizontal acceleration in m/s^2?
+
+0
+
+0: Horizontal velocity remains constant during projectile motion because there is no acceleration.
+
+3
+What is the magnitude(absolute value) of the vertical acceleration in projectile motion in m/s^2?
+
+9.8
+
+9.8: Vertical acceleration is gravity, which has an acceleration of 9.8m/s^2.
+
+4
+In projectile motion, the only force acting on the object is the force of gravity; answer with "true" or "false"
+
+true
+
+True: there are no external forces acting on the object except for the force of gravity, which causes it to accelerate downward.
+
+5
+In projectile motion, both horizontal and vertical velocity remain constant; answer with "true" or "false"
+
+false
+
+False: The force of gravity causes vertical acceleration, meaning that there is change in vertical velocity.
+
+6
+In projectile motion, acceleration changes with time; answer with "true" or "false"
+
+false
+
+False: The force of gravity is constant on an object with constant mass
+
+7
+Is speed a vector or scalar quantity?
+
+scalar
+
+Scalar: speed only has magnitude, and does not have direction, therefore it is a scalar quantity.
+
+8
+Is velocity a vector or scalar quantity?
+
+vector
+
+Vector: velocity has both direction and magnitude, so it is a vector quantity.
+
+9
+If an object in projectile motion starts and ends at the same height, it has the same velocity at the beginning and the end; answer with "true" or "false"
+
+false
+
+False: although speed will be the same at the beginning and end, direction will change, causing velocity to change too.
+
+10
+The path of a projectile in projectile motion is a parabola; answer with "true" or "false"
+
+true
+
+True: Since X-velocity is constant and Y-velocity changes linearly, a projectile's path can be represented with a parabola.
+
+11
+In projectile motion, horizontal velocity stays constant; answer with "true" or "false"
+
+true
+
+True: There is no x-acceleration, so x-velocity does not change
+
+12
+In projectile motion, vertical velocity stays constant; answer with "true" or "false"
+
+false
+
+False: There is y-acceleration, gravity, so y-velocity changes linearly
+
+13
+If change in height is 0, a projectile launched at 30 degrees to the horizontal will travel the same distance as projectile launched at what angle (in degrees)?
+
+60
+
+60: 30 and 60 are complementary angles, so they will go the same distance if change in height is 0.
+
+14
+What angle (in degrees) can a projectile be launched at to reach maximum height?
+
+90
+
+90: launching a projectile perpendicular to the horizontal will make all of its velocity vertical, giving it maximum height.
+
+15
+If change in height is 0, what angle (in degrees) can a projectile be launched at to reach maximum distance?
+
+45
+
+45: 45 degrees will give you the maximum distance when launching a projectile
+
+
+ 
+
+ 
